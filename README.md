@@ -7,7 +7,8 @@
 # Contributing
 Contributions to this project are highly encouraged! If you'd like to contribute by fixing bugs, adding features, or improving the overall codebase, please feel free to fork this repository, make your changes, and submit a pull request. We welcome your contributions and ideas to help make this Weather App even better.
 
-The Home Page
+# The Home Page
+> The Page Background UI changes according to Day/Night.
 ![3](https://github.com/abhishektyagi88/Weather-App/assets/146976779/cc49fadf-5ac4-4f05-9279-f4e777957e01)
 ![2](https://github.com/abhishektyagi88/Weather-App/assets/146976779/87f4536c-5899-4706-a54b-14fc0273a3e0)
 ![1](https://github.com/abhishektyagi88/Weather-App/assets/146976779/621dc73d-e202-421e-b854-752cf3e3ba1a)
